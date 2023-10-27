@@ -9,7 +9,8 @@ function App() {
         { id: 1, title: "ff", body: "description" },
         { id: 2, title: "rr 2", body: "description" },
         { id: 3, title: "dd 3", body: "description" },
-
+        { id: 4, title: "dd 4", body: "description" },
+         { id: 5, title: "dd 5", body: "description" }
     ])
 
     const [selectedSort, setSelectedSort] = useState('')
